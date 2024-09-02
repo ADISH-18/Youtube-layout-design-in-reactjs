@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repository-name/static/css/main.288a0f49.css",
-    "main.js": "/your-repository-name/static/js/main.b035ff1a.js",
-    "static/js/453.905155b6.chunk.js": "/your-repository-name/static/js/453.905155b6.chunk.js",
-    "index.html": "/your-repository-name/index.html",
-    "main.288a0f49.css.map": "/your-repository-name/static/css/main.288a0f49.css.map",
-    "main.b035ff1a.js.map": "/your-repository-name/static/js/main.b035ff1a.js.map",
-    "453.905155b6.chunk.js.map": "/your-repository-name/static/js/453.905155b6.chunk.js.map"
+    "main.css": "/Youtube-layout-design-in-reactjs/static/css/main.288a0f49.css",
+    "main.js": "/Youtube-layout-design-in-reactjs/static/js/main.d63bc2a1.js",
+    "static/js/453.905155b6.chunk.js": "/Youtube-layout-design-in-reactjs/static/js/453.905155b6.chunk.js",
+    "index.html": "/Youtube-layout-design-in-reactjs/index.html",
+    "main.288a0f49.css.map": "/Youtube-layout-design-in-reactjs/static/css/main.288a0f49.css.map",
+    "main.d63bc2a1.js.map": "/Youtube-layout-design-in-reactjs/static/js/main.d63bc2a1.js.map",
+    "453.905155b6.chunk.js.map": "/Youtube-layout-design-in-reactjs/static/js/453.905155b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.288a0f49.css",
-    "static/js/main.b035ff1a.js"
+    "static/js/main.d63bc2a1.js"
   ]
 }
